@@ -1,12 +1,12 @@
-# ChatGPT 中文版：国内直连指南（支持GPT-4、4o、o1、o3 和 DeepSeek R1，无需翻墙）【4月最新更新】
+# ChatGPT 中文版：国内直连指南（支持GPT-4、4o、o1、o3 和 DeepSeek R1，无需翻墙）【5月最新更新】
 
-> **更新时间： 2025/04/10**
+> **更新时间： 2025/05/15**
 > 
 
 本文提供完整的 **ChatGPT 中文版**使用指南，推荐国内可用的 **ChatGPT 镜像网站**，支持 GPT-4、GPT-4o，永久免费，无需翻墙，适合中文用户。  
 本项目旨在为用户提供一站式的 **ChatGPT 中文版使用指南**，同时整理了国内可用的 **ChatGPT镜像网站** 和 **官网使用教程**，帮助您快速上手 ChatGPT。 
 
-ChatGPT 中文版：[https://chat.yixiaai.com/](https://chat.yixiaai.com)   
+ChatGPT 中文版：[https://xsimplechat.com/](https://xsimplechat.com)   
 ChatGPT 镜像网站：[https://chat.lanjing.pro/](https://chat.lanjing.pro/) 
 
 ---
@@ -40,9 +40,9 @@ ChatGPT 镜像网站：[https://chat.lanjing.pro/](https://chat.lanjing.pro/)
 
 | **镜像站地址**       | **支持版本**         | **免费额度** | **注册方式**         | **稳定性** | **功能亮点**                                  |
 |----------------------|---------------------|--------------|---------------------|------------|---------------------------------------------|
-| [chat.yixiaai.com](https://chat.yixiaai.com)   | GPT-4, GPT-3.5，deepseek-r1 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
+| [xsimplechat.com](https://xsimplechat.com)   | GPT-4, GPT-3.5，deepseek-r1 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
 | [chat.lanjing.pro](https://chat.lanjing.pro)         | GPT-4, GPT-o1, Claude, deepseek-r1，MJ 绘图  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网，可以使用实时语音对话，视频对话         |
-| [cgn.lify.vip](https://cgn.lify.vip) | GPT-4, GPT-3.5,MJ | 有              | 国内邮箱支持        | ⭐⭐⭐⭐     | 支持开发者 API，提供长时间服务                 |
+| [cgn.lify.vip](https://chat.lify.vip) | GPT-4, GPT-3.5,MJ | 有              | 国内邮箱支持        | ⭐⭐⭐⭐     | 支持开发者 API，提供长时间服务                 |
 | [yixiaai.cn](https://yixiaai.cn)   | AI工具集       | 有              | 国内邮箱支持        | ⭐⭐⭐      | 使用简单，适合基础聊天用途                     |
 
 ---
@@ -65,7 +65,7 @@ ChatGPT 镜像网站：[https://chat.lanjing.pro/](https://chat.lanjing.pro/)
 ## 如何快速开始使用 ChatGPT 中文版
 
 ### **方法一：通过镜像网站快速体验**
-1. **选择镜像站点**：访问推荐的镜像站点（如 [chat.yixiaai.com](https://chat.yixiaai.com)）。
+1. **选择镜像站点**：访问推荐的镜像站点（如 [xsimplechat.com](https://xsimplechat.com)）。
 2. **注册或直接使用**：
    - 邮箱注册：填写邮箱和密码，完成账号创建。
    - 免注册：直接进入聊天界面，输入问题即可获得回答。
